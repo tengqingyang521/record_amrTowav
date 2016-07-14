@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2870E2546BF858DF167174ADCF2F0FAB5879CEF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7234204D7B8BBFBE6A382EAE6381E0C1B7401B38" : 0,
+    "2870E2546BF858DF167174ADCF2F0FAB5879CEF4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE46D8A0-343A-4FEB-973D-C1A69A152280",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7234204D7B8BBFBE6A382EAE6381E0C1B7401B38" : "",
+    "2870E2546BF858DF167174ADCF2F0FAB5879CEF4" : "iOS%E5%BD%95%E9%9F%B3%E5%92%8Cwav%E8%BD%ACamr\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS录音和wav转amr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS录音和wav转amr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/XFZLDXF\/TEST.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2870E2546BF858DF167174ADCF2F0FAB5879CEF4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tengqingyang521\/record_amrTowav.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7234204D7B8BBFBE6A382EAE6381E0C1B7401B38"
+    }
+  ]
+}
